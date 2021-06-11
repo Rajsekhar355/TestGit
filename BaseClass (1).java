@@ -3,7 +3,6 @@ package com.utilities;
 import com.configurations.GlobalData;
 import com.epam.reportportal.service.ReportPortal;
 import com.epam.ta.reportportal.ws.model.log.SaveLogRQ;
-
 import com.saucelabs.common.SauceOnDemandAuthentication;
 import com.saucelabs.saucerest.SauceREST;
 import groovy.json.StringEscapeUtils;
