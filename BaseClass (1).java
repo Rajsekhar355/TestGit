@@ -1,5 +1,4 @@
 package com.utilities;
-
 import com.configurations.GlobalData;
 import com.epam.reportportal.service.ReportPortal;
 import com.epam.ta.reportportal.ws.model.log.SaveLogRQ;
